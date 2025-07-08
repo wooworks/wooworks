@@ -1,16 +1,16 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://wooworks.io/"
 languageCode = "en-us"
-title = "My Hugo Site"
+title = "wooworks"
 theme = "coder"
 
 [pagination]
   pagerSize = 10
 
 [params]
-  author = "Your Name"
+  author = "Woo"
   info = "Dev, Designer, Writer"
   description = "This is my personal blog built with Hugo and the Coder theme."
-  keywords = "blog,developer,personal"
+  keywords = "인디메이커,developer,personal"
   avatarURL = "images/avatar.jpg" # 없어도 됨
 
 [[params.social]]
