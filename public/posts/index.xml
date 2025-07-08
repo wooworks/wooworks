@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My Hugo Site</description>
+    <title>Posts on wooworks</title>
+    <link>https://wooworks.io/posts/</link>
+    <description>Recent content in Posts on wooworks</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Jul 2025 17:34:58 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wooworks.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://wooworks.io/posts/hello-world/</link>
       <pubDate>Tue, 08 Jul 2025 17:34:58 +0900</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://wooworks.io/posts/hello-world/</guid>
       <description></description>
     </item>
   </channel>
