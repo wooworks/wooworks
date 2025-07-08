@@ -10,21 +10,26 @@ theme = "coder"
   author = "Woo"
   info = "Dev, Designer, Writer"
   description = "This is my personal blog built with Hugo and the Coder theme."
-  keywords = "인디메이커,developer,personal"
-  avatarURL = "images/avatar.jpg" # 없어도 됨
+  keywords = "indiemaker,developer,personal"
+  avatarURL = "static/images/centerpiece.jpg"
 
 [[params.social]]
-  name = "GitHub"
-  icon = "fa fa-github"
-  url = "https://github.com/yourusername"
+  name = "threads"
+  icon = "fa fa-threads"
+  url = "https://www.threads.net/@byjiwoo__"
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+  name = "about"
+  url = "/about/"
+  weight = 1
 
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 2
+  name = "project"
+  url = "/project/"
+  weight = 2
+
+  [[menu.main]]
+  name = "note"
+  url = "/note/"
+  weight = 3
