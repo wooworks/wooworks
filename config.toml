@@ -33,3 +33,7 @@ theme = "coder"
   name = "note"
   url = "/note/"
   weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
