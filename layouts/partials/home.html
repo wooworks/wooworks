@@ -1,19 +1,19 @@
-<section class="container centered full-screen-image">
-    <style>
-    .full-screen-image {
-      height: 80vh;
+<section class="container centered image-section">
+  <style>
+    .image-section {
+      height: 80vh; /* 전체 화면의 80%를 차지 */
       display: flex;
       justify-content: center;
       align-items: center;
-      overflow: hidden;
     }
 
-    .full-screen-image .main-image img {
-      max-height: 100%;
-      max-width: 100%;
+    .image-section .main-image img {
+      max-height: 60vh; /* 이미지 자체는 더 작게 */
+      max-width: 90vw;
       object-fit: contain;
     }
   </style>
+
   <div class="main-image">
     <img src="/images/centerpiece.jpg" alt="center-image" />
   </div>
