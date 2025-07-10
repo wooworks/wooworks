@@ -7,7 +7,7 @@ slug = "things-that-ai-cannot-do"
 images = ["/images/wooworks-ai.jpg"]
 authors = ["woo"]
 tags= []
-categories= []
+categories= ["note"]
 externalLink = ""
 series = []
 +++

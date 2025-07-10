@@ -7,11 +7,15 @@ theme = "coder"
   pagerSize = 10
 
 [params]
-  author = "Woo"
-  info = "Dev, Designer, Writer"
-  description = "This is my personal blog built with Hugo and the Coder theme."
-  keywords = "indiemaker,developer,personal"
-  avatarURL = "static/images/centerpiece.jpg"
+    description = "인디메이커의 일과 삶, 생각들을 기록합니다."
+  author = "wooworks"
+  keywords = ["wooworks", "blog", "인디메이커", "인디해커"]
+  hideColorSchemeToggle = true
+  images = ["/images/wooworks_opengraph.png"] # Open Graph 이미지 경로
+  faviconSVG = "/images/wooworks-favicon-32.svg"
+  favicon_32 = "/images/wooworks-favicon-32.png"
+  favicon_16 = "/images/wooworks-favicon-16.png"
+  touchicon  = "/images/my-touch-icon.png"
 
 [[params.social]]
   name = "threads"
@@ -31,9 +35,14 @@ theme = "coder"
 
   [[menu.main]]
   name = "note"
-  url = "/note/"
+  url = "/posts/"
   weight = 3
 
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
