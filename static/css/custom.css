@@ -1,0 +1,13 @@
+.full-screen-image {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.full-screen-image .main-image img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+}
