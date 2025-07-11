@@ -125,16 +125,26 @@
 
     <div class="content">
       
-  <main style="margin: 0; min-height: 100vh; display: flex; flex-direction: column;">
-  <section class="container centered image-section" style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <div class="main-image" style="text-align: center;">
-      <img
-        src="/images/centerpiece.jpg"
-        alt="center-image"
-        style="max-height: 80vh; max-width: 60vw; object-fit: contain; display: block; margin: 0 auto;" />
-    </div>
-  </section>
-</main>
+  <section class="container centered image-section">
+  <style>
+    .image-section {
+      height: calc(100vh - 60px);  
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .image-section .main-image img {
+      max-height: 90%;
+      max-width: 90vw;
+      object-fit: contain;
+    }
+  </style>
+
+  <div class="main-image">
+    <img src="/images/centerpiece.jpg" alt="center-image" />
+  </div>
+</section>
 
     </div>
 
