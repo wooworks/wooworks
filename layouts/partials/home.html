@@ -1,20 +1,7 @@
-<section class="container centered image-section">
-  <style>
-    .image-section {
-      height: 80vh; /* 전체 화면의 80%를 차지 */
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
-    .image-section .main-image img {
-      max-height: 60vh; /* 이미지 자체는 더 작게 */
-      max-width: 90vw;
-      object-fit: contain;
-    }
-  </style>
-
-  <div class="main-image">
-    <img src="/images/centerpiece.jpg" alt="center-image" />
-  </div>
-</section>
+  <main style="flex: 1;">
+    <section class="container centered image-section" style="height: 100%; display: flex; justify-content: center; align-items: center;">
+      <div class="main-image">
+        <img src="/images/centerpiece.jpg" alt="center-image" style="max-height: 100%; max-width: 90vw; object-fit: contain;" />
+      </div>
+    </section>
+  </main>
