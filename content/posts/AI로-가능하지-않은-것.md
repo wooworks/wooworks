@@ -48,4 +48,33 @@ AI는 누구나 쉽게 혼자서 원하는 것을 할 수 있도록 도와준다
 
 내가 요즘 보는 대부분의 글들이 AI를 예찬하고, AI의 활용에 대해 '너만 몰라'라고 이야기하고 있는 것 같아, 몇 자 적었다. 가끔은 이런 생각을 하는 사람도 필요하지 않을까. 
 
-
+<iframe
+    data-tally-src="https://tally.so/embed/3jpLo9?hideTitle=1&transparentBackground=1&dynamicHeight=1"
+    loading="lazy"
+    width="100%"
+    height="200"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0"
+    title="wooworks 메시지와 구독 신청"
+  ></iframe>
+  <script>
+    var d = document,
+      w = "https://tally.so/widgets/embed.js",
+      v = function () {
+        if (typeof Tally !== "undefined") Tally.loadEmbeds();
+        else
+          d.querySelectorAll("iframe[data-tally-src]:not([src])")
+            .forEach(function (e) {
+              e.src = e.dataset.tallySrc;
+            });
+      };
+    if (typeof Tally !== "undefined") v();
+    else if (d.querySelector('script[src="' + w + '"]') == null) {
+      var s = d.createElement("script");
+      s.src = w;
+      s.onload = v;
+      s.onerror = v;
+      d.body.appendChild(s);
+    }
+  </script>

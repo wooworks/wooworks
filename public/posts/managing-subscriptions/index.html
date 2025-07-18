@@ -243,6 +243,36 @@
 <p><a href="https://whatsub.xyz"  class="external-link" target="_blank" rel="noopener">왓썹(Whatsub)</a>은 모든 구독 서비스의 비용과 결제 날짜들을 한눈에 관리할 수 있도록 돕기위해 만들었다. 다가오는 갱신일에 대한 알림을 받으면 미처 생각하지 못했던 지출을 다시 한번 생각해볼 수 있고, 사용량이 많지 않은 서비스는 잠시 해지할 수 있다. 넘쳐나는 구독으로 괴롭다면, 부담없이 이용해보시길!</p>
 <p>*25년 7월 현재: 결제 전 미리알림의 문제를 해결하느라 네이티브앱으로 다시 만들었다. (이전에는 프로그레시브웹앱)
 비공개 테스트는 <a href="https://whatsub.xyz"  class="external-link" target="_blank" rel="noopener">왓썹(Whatsub) 사이트</a>에서 신청할 수 있다. 비공개 테스트가 끝나면 앱스토어와 구글 플레이에서 누구나 다운로드 할 수 있다.</p>
+<iframe
+    data-tally-src="https://tally.so/embed/3jpLo9?hideTitle=1&transparentBackground=1&dynamicHeight=1"
+    loading="lazy"
+    width="100%"
+    height="200"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0"
+    title="wooworks 메시지와 구독 신청"
+  ></iframe>
+  <script>
+    var d = document,
+      w = "https://tally.so/widgets/embed.js",
+      v = function () {
+        if (typeof Tally !== "undefined") Tally.loadEmbeds();
+        else
+          d.querySelectorAll("iframe[data-tally-src]:not([src])")
+            .forEach(function (e) {
+              e.src = e.dataset.tallySrc;
+            });
+      };
+    if (typeof Tally !== "undefined") v();
+    else if (d.querySelector('script[src="' + w + '"]') == null) {
+      var s = d.createElement("script");
+      s.src = w;
+      s.onload = v;
+      s.onerror = v;
+      d.body.appendChild(s);
+    }
+  </script>
 
 
         
