@@ -5,8 +5,7 @@ date = "2025-05-01"
 aliases = []
 images = ["/images/wooworks_opengraph.png"]
 author = "woo"
-type = "page"
-layout = "single"
+type = "posts"
 +++
 
 **Somoon** 리퍼럴 마케팅 커뮤니티 [관련 글 보기 →](/tags/somoon) <br>[somoon.io](https://somoon.io)
