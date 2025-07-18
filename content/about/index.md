@@ -5,6 +5,8 @@ date = "2025-04-21"
 aliases = ["wooworks"]
 images = ["/images/fin.jpeg"]
 author = "woo"
+type = "page"
+layout = "single"
 +++
 
 작업중인 일과 평소 생각들을 기록합니다.
