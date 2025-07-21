@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wooworks.io/project/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <loc>https://wooworks.io/posts/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wooworks.io/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wooworks.io/project/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wooworks.io/about/</loc>
@@ -21,9 +24,6 @@
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wooworks.io/categories/note/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wooworks.io/posts/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wooworks.io/tags/project/</loc>
