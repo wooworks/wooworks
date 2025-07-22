@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wooworks.io/categories/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wooworks.io/categories/note/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://wooworks.io/posts/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wooworks.io/tags/project/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wooworks.io/tags/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wooworks.io/tags/whatsub/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wooworks.io/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wooworks.io/posts/lessons-after-building-app/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wooworks.io/posts/restart-after-goodbye/</loc>
+    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wooworks.io/project/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
@@ -14,29 +35,14 @@
     <loc>https://wooworks.io/about/</loc>
     <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wooworks.io/categories/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://wooworks.io/tags/feedflow/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wooworks.io/tags/indiemaker/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wooworks.io/categories/note/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wooworks.io/tags/project/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wooworks.io/tags/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://wooworks.io/posts/feedflow-for-indiemaker/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wooworks.io/tags/whatsub/</loc>
-    <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wooworks.io/posts/managing-subscriptions/</loc>
     <lastmod>2025-01-19T00:00:00+00:00</lastmod>
